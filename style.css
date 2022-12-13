@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background: fixed;
+    background-color: rgba(0, 255, 255, 0.927);
+
+}
+
+.app{
+   text-align: center;
+}
+
+img{
+    width: 450px;
+}
